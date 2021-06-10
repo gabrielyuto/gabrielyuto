@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello World 🖖🌏
+My name is Gabriel Yuto, I'm from Brazil 🇧🇷 and I'm a Computer Science student at the Federal University of ABC.
 
-<!--
-**gabrielyuto/gabrielyuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about solving problems 🧠 and learning new things 📚. Always open to new challenges and new opportunities.
 
-Here are some ideas to get you started:
+#### **Seja vc sua melhor VERSÃO** 👊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍From SP living in Mogi_City
+- 👨‍💻 Stag in Information Technology  at YOUSE💜
+
+Reach me out 👇
+
+[![Twitter Badge](https://img.shields.io/badge/-@GabrielYuto1-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/GabrielYuto1)](https://twitter.com/GabrielYuto1) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Yuto-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-yuto/)](https://www.linkedin.com/in/gabriel-yuto/) 
+[![Gmail Badge](https://img.shields.io/badge/-gabrielyuto2016@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=gabrielyuto2016@gmail.com)](mailto:gabrielyuto2016@gmail.com)
