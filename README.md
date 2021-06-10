@@ -6,7 +6,7 @@ I'm passionate about solving problems 🧠 and learning new things 📚. Always 
 #### **Seja vc sua melhor VERSÃO** 👊
 
 - 📍From SP living in Mogi_City
-- 👨‍💻 Stag in Information Technology  at YOUSE💜
+- 👨‍💻 Stag in Information Technology  at YOUSE 💜
 
 Reach me out 👇
 
